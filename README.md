@@ -7,7 +7,7 @@ Download the code and extract
 
 install streamlit
 
-"!pip install streamlit"
+!pip install streamlit
 
 open cmd in the folder and run
 
